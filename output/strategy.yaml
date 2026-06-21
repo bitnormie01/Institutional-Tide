@@ -1,0 +1,13 @@
+strategy: Institutional Tide
+tide_level: STRONG_INFLOW
+reaction:
+  sample_size: 24
+  median_7d_return: 0.015453
+  median_14d_return: -0.062069
+  hit_rate: 0.5417
+entry_rule: Enter 100% position when tide == STRONG_INFLOW
+exit_rule: Exit to 0% on STRONG_OUTFLOW or max-drawdown stop triggered
+position_sizing: 100% of portfolio
+invalidation: Drawdown exceeds -12%
+max_drawdown_stop: -0.12
+rebalance_on_level_change: true

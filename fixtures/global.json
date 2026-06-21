@@ -1,0 +1,9 @@
+[
+  {"date": "2025-01-01", "total_market_cap_usd": 1750000000000, "btc_dominance": 52.3, "total_volume_24h_usd": 45000000000},
+  {"date": "2025-01-15", "total_market_cap_usd": 1680000000000, "btc_dominance": 53.1, "total_volume_24h_usd": 52000000000},
+  {"date": "2025-02-01", "total_market_cap_usd": 1820000000000, "btc_dominance": 51.8, "total_volume_24h_usd": 48000000000},
+  {"date": "2025-02-15", "total_market_cap_usd": 1710000000000, "btc_dominance": 53.5, "total_volume_24h_usd": 55000000000},
+  {"date": "2025-03-01", "total_market_cap_usd": 1850000000000, "btc_dominance": 52.0, "total_volume_24h_usd": 47000000000},
+  {"date": "2025-03-15", "total_market_cap_usd": 1900000000000, "btc_dominance": 51.5, "total_volume_24h_usd": 50000000000},
+  {"date": "2025-04-01", "total_market_cap_usd": 1870000000000, "btc_dominance": 52.1, "total_volume_24h_usd": 49000000000}
+]
